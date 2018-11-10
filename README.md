@@ -1,4 +1,3 @@
-# Web-Security-Week7
 # Project 7 - WordPress Pentesting
 
 Time spent: **12** hours spent in total
